@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Module2"
 Sub worksheet_looper()
     Dim ws As Worksheet
     ' Loop through each worksheet in the workbook
