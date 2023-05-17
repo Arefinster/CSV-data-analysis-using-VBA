@@ -1,4 +1,4 @@
-# VBA-challenge
+# A simple VBA script
 Module 2 challenge - UFT Data Analytics Bootcamp
 1. The VBA script is in .bas format. It contains two sub-routines. The main sub-routine named worksheet_looper() declares a variable of type Worksheet and 'for' loops through each worksheet in the workbook. At each iteration, the current worksheet is activated, its name is printed on the console and another sub-routine named stock_analysis() is executed on it.
 2. In the stock-analysis worksheet, first the total number of rows (excluding the very first row) is counted and the last row is identified using built-in function.
